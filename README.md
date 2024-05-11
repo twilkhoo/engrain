@@ -53,6 +53,8 @@ NEXT_PUBLIC_MAPS_KEY=""
 ```
 
 ## Demos
+Uploading localhost_3000 - Google Chrome 2024-05-11 04-08-14.mp4…
+Uploading localhost_3000_admin - Google Chrome 2024-05-11 03-58-25.mp4…
 
 ## Next steps
 An easier way to see memories from particular users could be helpful, which makes it more like a modern social media app.
