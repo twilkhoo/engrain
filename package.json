@@ -1,0 +1,46 @@
+{
+  "name": "engrain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "3.10.3",
+    "@auth0/nextjs-auth0": "3.5.0",
+    "@pothos/core": "^3.41.1",
+    "@pothos/plugin-prisma": "^3.65.1",
+    "@pothos/plugin-relay": "3.46.0",
+    "@prisma/client": "^5.13.0",
+    "@reach/combobox": "^0.18.0",
+    "@react-google-maps/api": "^2.19.3",
+    "@vis.gl/react-google-maps": "^0.11.2",
+    "apollo-server-micro": "^3.13.0",
+    "aws-sdk": "^2.1618.0",
+    "google-map-react": "^2.2.1",
+    "graphql": "16.8.1",
+    "next": "^14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-hook-form": "7.51.4",
+    "react-hot-toast": "2.4.1",
+    "use-places-autocomplete": "^4.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.13",
+    "@types/node": "^20.12.11",
+    "@types/react": "^18.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "prisma": "^5.13.0",
+    "tailwindcss": "^3.4.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  }
+}
