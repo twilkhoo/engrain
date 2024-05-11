@@ -53,10 +53,11 @@ NEXT_PUBLIC_MAPS_KEY=""
 ```
 
 ## Demos
-Uploading localhost_3000 - Google Chrome 2024-05-11 04-08-14.mp4…
-Uploading localhost_3000_admin - Google Chrome 2024-05-11 03-58-25.mp4…
+
+https://github.com/twilkhoo/engrain/assets/30396273/c222defd-59cc-4de6-87d2-3cb595364b0d
+
+https://github.com/twilkhoo/engrain/assets/30396273/56c07771-5458-4196-95f3-cca5fac2db9a
+
 
 ## Next steps
 An easier way to see memories from particular users could be helpful, which makes it more like a modern social media app.
-
-
